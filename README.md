@@ -29,4 +29,6 @@ The analysis of the election show that:
  ## Challenge Overview
  - The Challenge is to use for loops and conditional statments with membership and logical operators to find additional results for the election audits data. The requested results are for voter turnout for each count,  percentage for the total count of votes from each county and the county with the highest turnout.
  ## Challenge Summary
-with this scrypt we were able to provide percentages, total counts, the winning candidate and the county with the largest turnout from three columns of election data. The scryipt is already established and can be mofied by ensuring the data
+Greetings Election Commission, 
+
+I propose the use of the script that we established for the Colorado Board of elections, future election audits.  With this script we were able to provide percentages, total counts, the winning candidate and the county with the largest turnout from three columns of election data. If you were trying to find a way to improve voter numbers, we can modify the script to see which county had the smallest turnout to assist with what area to start your analysist.  The script can assist with wanting to see the candidate with the lowest number and lowest percentge of votes. These are two ways we can modify the script to assist with future election audits.  Thank you for your time and consideration.  
